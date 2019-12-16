@@ -3,5 +3,94 @@
     "id": "jBWMVGjm50l6LGwepDoty",
     "username": "frontendmaster"
   },
-  "pet": []
+  "pet": [
+    {
+      "id": "8437ksdajfd",
+      "type": "DOG",
+      "name": "Moose",
+      "createdAt": "34245345452656"
+    },
+    {
+      "id": "8437ksrwertdajfd",
+      "type": "CAT",
+      "name": "D",
+      "createdAt": "342454334552656"
+    },
+    {
+      "id": "8437ksdqwerqajfd",
+      "type": "DOG",
+      "name": "Karma",
+      "createdAt": "34245453452656"
+    },
+    {
+      "id": "W-bVRW4HXtIHzfEUAh0mu",
+      "createdAt": 1576523122256,
+      "name": "batman",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "kIP-HC7ybc_fUel879R6H",
+      "createdAt": 1576524461644,
+      "name": "Garfield",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "4MVad27i9JzHuDk5x_d1i",
+      "createdAt": 1576527569263,
+      "name": "fdgsdfgsdfg",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "lPhUlbrrP8dnIytSoqY70",
+      "createdAt": 1576527576534,
+      "name": "sdfgsdfgsd",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "5pPGOlDfpQyxtoeRjWQ3T",
+      "createdAt": 1576527594683,
+      "name": "Apollo",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "qiCWkKALM7VdiHM_KA5nq",
+      "createdAt": 1576527602281,
+      "name": "asdfasdf",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "o--h_qsGZvgNOln9wxWJ6",
+      "createdAt": 1576528932057,
+      "name": "afsdfasdfasdf",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "qQCBGxx_Cinq81wWx89j_",
+      "createdAt": 1576530429714,
+      "name": "Peter",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "tvV4yPv288Tyu7RKxPMGa",
+      "createdAt": 1576530455531,
+      "name": "asdsad",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "8LkUfEaV-4hGcH9WLpe-r",
+      "createdAt": 1576530461502,
+      "name": "asdfasdf",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    }
+  ]
 }
